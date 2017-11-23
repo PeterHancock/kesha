@@ -1,23 +1,5 @@
 {
-  "name": "obj-db",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "Peter Hancock",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^21.2.1"
-  },
-  "jest": {
-    "testRegex": "/__tests__/.*\\.(test|spec)\\.jsx?$",
-    "moduleDirectories": [
-      "node_modules"
-    ]
-  },
-  "dependencies": {
-    "xxhashjs": "^0.2.1"
-  }
+	"devDependencies": {
+		"lerna": "^2.5.1"
+	}
 }
