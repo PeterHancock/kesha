@@ -4,11 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "kesha": "1.0.0"
+  },
   "jest": {
     "testRegex": "/__tests__/.*\\.(test|spec)\\.jsx?$",
     "moduleDirectories": [
