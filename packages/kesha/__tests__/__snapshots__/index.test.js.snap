@@ -1,0 +1,1942 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`kesha diff 1`] = `
+Object {
+  "cas": Object {
+    "3078163440": Array [
+      Object {
+        "key": "key-0",
+        "value": Object {
+          "id": "key-0",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-1",
+        "value": Object {
+          "id": "key-1",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-10",
+        "value": Object {
+          "id": "key-10",
+          "val": 2,
+        },
+      },
+      Object {
+        "key": "key-11",
+        "value": Object {
+          "id": "key-11",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-12",
+        "value": Object {
+          "id": "key-12",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-13",
+        "value": Object {
+          "id": "key-13",
+          "val": 1,
+        },
+      },
+    ],
+  },
+  "merkle": Object {
+    "hash": 2406346148,
+    "l": Object {
+      "hash": 819550030,
+      "l": Object {
+        "hash": 3078163440,
+      },
+      "r": Object {
+        "hash": 4282125532,
+      },
+    },
+    "r": Object {
+      "hash": 3359173578,
+    },
+  },
+}
+`;
+
+exports[`kesha initial cas 1`] = `
+Object {
+  "2068367829": Array [
+    Object {
+      "key": "key-36",
+      "value": Object {
+        "id": "key-36",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-37",
+      "value": Object {
+        "id": "key-37",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-38",
+      "value": Object {
+        "id": "key-38",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-39",
+      "value": Object {
+        "id": "key-39",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-4",
+      "value": Object {
+        "id": "key-4",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-40",
+      "value": Object {
+        "id": "key-40",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-41",
+      "value": Object {
+        "id": "key-41",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-42",
+      "value": Object {
+        "id": "key-42",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-43",
+      "value": Object {
+        "id": "key-43",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-44",
+      "value": Object {
+        "id": "key-44",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-45",
+      "value": Object {
+        "id": "key-45",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-46",
+      "value": Object {
+        "id": "key-46",
+        "val": 1,
+      },
+    },
+  ],
+  "2223315893": Array [
+    Object {
+      "key": "key-0",
+      "value": Object {
+        "id": "key-0",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-1",
+      "value": Object {
+        "id": "key-1",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-10",
+      "value": Object {
+        "id": "key-10",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-11",
+      "value": Object {
+        "id": "key-11",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-12",
+      "value": Object {
+        "id": "key-12",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-13",
+      "value": Object {
+        "id": "key-13",
+        "val": 1,
+      },
+    },
+  ],
+  "2346951223": Array [
+    Object {
+      "key": "key-47",
+      "value": Object {
+        "id": "key-47",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-48",
+      "value": Object {
+        "id": "key-48",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-49",
+      "value": Object {
+        "id": "key-49",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-5",
+      "value": Object {
+        "id": "key-5",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-50",
+      "value": Object {
+        "id": "key-50",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-51",
+      "value": Object {
+        "id": "key-51",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-52",
+      "value": Object {
+        "id": "key-52",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-53",
+      "value": Object {
+        "id": "key-53",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-54",
+      "value": Object {
+        "id": "key-54",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-55",
+      "value": Object {
+        "id": "key-55",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-56",
+      "value": Object {
+        "id": "key-56",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-57",
+      "value": Object {
+        "id": "key-57",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-58",
+      "value": Object {
+        "id": "key-58",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-59",
+      "value": Object {
+        "id": "key-59",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-6",
+      "value": Object {
+        "id": "key-6",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-60",
+      "value": Object {
+        "id": "key-60",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-61",
+      "value": Object {
+        "id": "key-61",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-62",
+      "value": Object {
+        "id": "key-62",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-63",
+      "value": Object {
+        "id": "key-63",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-64",
+      "value": Object {
+        "id": "key-64",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-65",
+      "value": Object {
+        "id": "key-65",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-66",
+      "value": Object {
+        "id": "key-66",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-67",
+      "value": Object {
+        "id": "key-67",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-68",
+      "value": Object {
+        "id": "key-68",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-69",
+      "value": Object {
+        "id": "key-69",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-7",
+      "value": Object {
+        "id": "key-7",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-70",
+      "value": Object {
+        "id": "key-70",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-71",
+      "value": Object {
+        "id": "key-71",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-72",
+      "value": Object {
+        "id": "key-72",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-73",
+      "value": Object {
+        "id": "key-73",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-74",
+      "value": Object {
+        "id": "key-74",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-75",
+      "value": Object {
+        "id": "key-75",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-76",
+      "value": Object {
+        "id": "key-76",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-77",
+      "value": Object {
+        "id": "key-77",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-78",
+      "value": Object {
+        "id": "key-78",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-79",
+      "value": Object {
+        "id": "key-79",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-8",
+      "value": Object {
+        "id": "key-8",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-80",
+      "value": Object {
+        "id": "key-80",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-81",
+      "value": Object {
+        "id": "key-81",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-82",
+      "value": Object {
+        "id": "key-82",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-83",
+      "value": Object {
+        "id": "key-83",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-84",
+      "value": Object {
+        "id": "key-84",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-85",
+      "value": Object {
+        "id": "key-85",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-86",
+      "value": Object {
+        "id": "key-86",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-87",
+      "value": Object {
+        "id": "key-87",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-88",
+      "value": Object {
+        "id": "key-88",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-89",
+      "value": Object {
+        "id": "key-89",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-9",
+      "value": Object {
+        "id": "key-9",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-90",
+      "value": Object {
+        "id": "key-90",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-91",
+      "value": Object {
+        "id": "key-91",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-92",
+      "value": Object {
+        "id": "key-92",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-93",
+      "value": Object {
+        "id": "key-93",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-94",
+      "value": Object {
+        "id": "key-94",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-95",
+      "value": Object {
+        "id": "key-95",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-96",
+      "value": Object {
+        "id": "key-96",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-97",
+      "value": Object {
+        "id": "key-97",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-98",
+      "value": Object {
+        "id": "key-98",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-99",
+      "value": Object {
+        "id": "key-99",
+        "val": 1,
+      },
+    },
+  ],
+  "4282125532": Array [
+    Object {
+      "key": "key-14",
+      "value": Object {
+        "id": "key-14",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-15",
+      "value": Object {
+        "id": "key-15",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-16",
+      "value": Object {
+        "id": "key-16",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-17",
+      "value": Object {
+        "id": "key-17",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-18",
+      "value": Object {
+        "id": "key-18",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-19",
+      "value": Object {
+        "id": "key-19",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-2",
+      "value": Object {
+        "id": "key-2",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-20",
+      "value": Object {
+        "id": "key-20",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-21",
+      "value": Object {
+        "id": "key-21",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-22",
+      "value": Object {
+        "id": "key-22",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-23",
+      "value": Object {
+        "id": "key-23",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-24",
+      "value": Object {
+        "id": "key-24",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-25",
+      "value": Object {
+        "id": "key-25",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-26",
+      "value": Object {
+        "id": "key-26",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-27",
+      "value": Object {
+        "id": "key-27",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-28",
+      "value": Object {
+        "id": "key-28",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-29",
+      "value": Object {
+        "id": "key-29",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-3",
+      "value": Object {
+        "id": "key-3",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-30",
+      "value": Object {
+        "id": "key-30",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-31",
+      "value": Object {
+        "id": "key-31",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-32",
+      "value": Object {
+        "id": "key-32",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-33",
+      "value": Object {
+        "id": "key-33",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-34",
+      "value": Object {
+        "id": "key-34",
+        "val": 1,
+      },
+    },
+    Object {
+      "key": "key-35",
+      "value": Object {
+        "id": "key-35",
+        "val": 1,
+      },
+    },
+  ],
+}
+`;
+
+exports[`kesha initial merkle 1`] = `
+Object {
+  "hash": 3152849302,
+  "l": Object {
+    "hash": 558454627,
+    "l": Object {
+      "hash": 2223315893,
+    },
+    "r": Object {
+      "hash": 4282125532,
+    },
+  },
+  "r": Object {
+    "hash": 3359173578,
+    "l": Object {
+      "hash": 2068367829,
+    },
+    "r": Object {
+      "hash": 2346951223,
+    },
+  },
+}
+`;
+
+exports[`kesha patch 1`] = `
+Object {
+  "cas": Object {
+    "2068367829": Array [
+      Object {
+        "key": "key-36",
+        "value": Object {
+          "id": "key-36",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-37",
+        "value": Object {
+          "id": "key-37",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-38",
+        "value": Object {
+          "id": "key-38",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-39",
+        "value": Object {
+          "id": "key-39",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-4",
+        "value": Object {
+          "id": "key-4",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-40",
+        "value": Object {
+          "id": "key-40",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-41",
+        "value": Object {
+          "id": "key-41",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-42",
+        "value": Object {
+          "id": "key-42",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-43",
+        "value": Object {
+          "id": "key-43",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-44",
+        "value": Object {
+          "id": "key-44",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-45",
+        "value": Object {
+          "id": "key-45",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-46",
+        "value": Object {
+          "id": "key-46",
+          "val": 1,
+        },
+      },
+    ],
+    "2346951223": Array [
+      Object {
+        "key": "key-47",
+        "value": Object {
+          "id": "key-47",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-48",
+        "value": Object {
+          "id": "key-48",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-49",
+        "value": Object {
+          "id": "key-49",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-5",
+        "value": Object {
+          "id": "key-5",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-50",
+        "value": Object {
+          "id": "key-50",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-51",
+        "value": Object {
+          "id": "key-51",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-52",
+        "value": Object {
+          "id": "key-52",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-53",
+        "value": Object {
+          "id": "key-53",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-54",
+        "value": Object {
+          "id": "key-54",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-55",
+        "value": Object {
+          "id": "key-55",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-56",
+        "value": Object {
+          "id": "key-56",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-57",
+        "value": Object {
+          "id": "key-57",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-58",
+        "value": Object {
+          "id": "key-58",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-59",
+        "value": Object {
+          "id": "key-59",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-6",
+        "value": Object {
+          "id": "key-6",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-60",
+        "value": Object {
+          "id": "key-60",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-61",
+        "value": Object {
+          "id": "key-61",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-62",
+        "value": Object {
+          "id": "key-62",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-63",
+        "value": Object {
+          "id": "key-63",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-64",
+        "value": Object {
+          "id": "key-64",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-65",
+        "value": Object {
+          "id": "key-65",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-66",
+        "value": Object {
+          "id": "key-66",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-67",
+        "value": Object {
+          "id": "key-67",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-68",
+        "value": Object {
+          "id": "key-68",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-69",
+        "value": Object {
+          "id": "key-69",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-7",
+        "value": Object {
+          "id": "key-7",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-70",
+        "value": Object {
+          "id": "key-70",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-71",
+        "value": Object {
+          "id": "key-71",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-72",
+        "value": Object {
+          "id": "key-72",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-73",
+        "value": Object {
+          "id": "key-73",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-74",
+        "value": Object {
+          "id": "key-74",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-75",
+        "value": Object {
+          "id": "key-75",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-76",
+        "value": Object {
+          "id": "key-76",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-77",
+        "value": Object {
+          "id": "key-77",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-78",
+        "value": Object {
+          "id": "key-78",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-79",
+        "value": Object {
+          "id": "key-79",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-8",
+        "value": Object {
+          "id": "key-8",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-80",
+        "value": Object {
+          "id": "key-80",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-81",
+        "value": Object {
+          "id": "key-81",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-82",
+        "value": Object {
+          "id": "key-82",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-83",
+        "value": Object {
+          "id": "key-83",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-84",
+        "value": Object {
+          "id": "key-84",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-85",
+        "value": Object {
+          "id": "key-85",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-86",
+        "value": Object {
+          "id": "key-86",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-87",
+        "value": Object {
+          "id": "key-87",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-88",
+        "value": Object {
+          "id": "key-88",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-89",
+        "value": Object {
+          "id": "key-89",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-9",
+        "value": Object {
+          "id": "key-9",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-90",
+        "value": Object {
+          "id": "key-90",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-91",
+        "value": Object {
+          "id": "key-91",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-92",
+        "value": Object {
+          "id": "key-92",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-93",
+        "value": Object {
+          "id": "key-93",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-94",
+        "value": Object {
+          "id": "key-94",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-95",
+        "value": Object {
+          "id": "key-95",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-96",
+        "value": Object {
+          "id": "key-96",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-97",
+        "value": Object {
+          "id": "key-97",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-98",
+        "value": Object {
+          "id": "key-98",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-99",
+        "value": Object {
+          "id": "key-99",
+          "val": 1,
+        },
+      },
+    ],
+    "3078163440": Array [
+      Object {
+        "key": "key-0",
+        "value": Object {
+          "id": "key-0",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-1",
+        "value": Object {
+          "id": "key-1",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-10",
+        "value": Object {
+          "id": "key-10",
+          "val": 2,
+        },
+      },
+      Object {
+        "key": "key-11",
+        "value": Object {
+          "id": "key-11",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-12",
+        "value": Object {
+          "id": "key-12",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-13",
+        "value": Object {
+          "id": "key-13",
+          "val": 1,
+        },
+      },
+    ],
+    "4282125532": Array [
+      Object {
+        "key": "key-14",
+        "value": Object {
+          "id": "key-14",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-15",
+        "value": Object {
+          "id": "key-15",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-16",
+        "value": Object {
+          "id": "key-16",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-17",
+        "value": Object {
+          "id": "key-17",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-18",
+        "value": Object {
+          "id": "key-18",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-19",
+        "value": Object {
+          "id": "key-19",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-2",
+        "value": Object {
+          "id": "key-2",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-20",
+        "value": Object {
+          "id": "key-20",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-21",
+        "value": Object {
+          "id": "key-21",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-22",
+        "value": Object {
+          "id": "key-22",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-23",
+        "value": Object {
+          "id": "key-23",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-24",
+        "value": Object {
+          "id": "key-24",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-25",
+        "value": Object {
+          "id": "key-25",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-26",
+        "value": Object {
+          "id": "key-26",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-27",
+        "value": Object {
+          "id": "key-27",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-28",
+        "value": Object {
+          "id": "key-28",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-29",
+        "value": Object {
+          "id": "key-29",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-3",
+        "value": Object {
+          "id": "key-3",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-30",
+        "value": Object {
+          "id": "key-30",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-31",
+        "value": Object {
+          "id": "key-31",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-32",
+        "value": Object {
+          "id": "key-32",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-33",
+        "value": Object {
+          "id": "key-33",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-34",
+        "value": Object {
+          "id": "key-34",
+          "val": 1,
+        },
+      },
+      Object {
+        "key": "key-35",
+        "value": Object {
+          "id": "key-35",
+          "val": 1,
+        },
+      },
+    ],
+  },
+  "merkle": Object {
+    "hash": 2406346148,
+    "l": Object {
+      "hash": 819550030,
+      "l": Object {
+        "hash": 3078163440,
+      },
+      "r": Object {
+        "hash": 4282125532,
+      },
+    },
+    "r": Object {
+      "hash": 3359173578,
+      "l": Object {
+        "hash": 2068367829,
+      },
+      "r": Object {
+        "hash": 2346951223,
+      },
+    },
+  },
+  "store": Object {
+    "key-0": Object {
+      "id": "key-0",
+      "val": 1,
+    },
+    "key-1": Object {
+      "id": "key-1",
+      "val": 1,
+    },
+    "key-10": Object {
+      "id": "key-10",
+      "val": 2,
+    },
+    "key-11": Object {
+      "id": "key-11",
+      "val": 1,
+    },
+    "key-12": Object {
+      "id": "key-12",
+      "val": 1,
+    },
+    "key-13": Object {
+      "id": "key-13",
+      "val": 1,
+    },
+    "key-14": Object {
+      "id": "key-14",
+      "val": 1,
+    },
+    "key-15": Object {
+      "id": "key-15",
+      "val": 1,
+    },
+    "key-16": Object {
+      "id": "key-16",
+      "val": 1,
+    },
+    "key-17": Object {
+      "id": "key-17",
+      "val": 1,
+    },
+    "key-18": Object {
+      "id": "key-18",
+      "val": 1,
+    },
+    "key-19": Object {
+      "id": "key-19",
+      "val": 1,
+    },
+    "key-2": Object {
+      "id": "key-2",
+      "val": 1,
+    },
+    "key-20": Object {
+      "id": "key-20",
+      "val": 1,
+    },
+    "key-21": Object {
+      "id": "key-21",
+      "val": 1,
+    },
+    "key-22": Object {
+      "id": "key-22",
+      "val": 1,
+    },
+    "key-23": Object {
+      "id": "key-23",
+      "val": 1,
+    },
+    "key-24": Object {
+      "id": "key-24",
+      "val": 1,
+    },
+    "key-25": Object {
+      "id": "key-25",
+      "val": 1,
+    },
+    "key-26": Object {
+      "id": "key-26",
+      "val": 1,
+    },
+    "key-27": Object {
+      "id": "key-27",
+      "val": 1,
+    },
+    "key-28": Object {
+      "id": "key-28",
+      "val": 1,
+    },
+    "key-29": Object {
+      "id": "key-29",
+      "val": 1,
+    },
+    "key-3": Object {
+      "id": "key-3",
+      "val": 1,
+    },
+    "key-30": Object {
+      "id": "key-30",
+      "val": 1,
+    },
+    "key-31": Object {
+      "id": "key-31",
+      "val": 1,
+    },
+    "key-32": Object {
+      "id": "key-32",
+      "val": 1,
+    },
+    "key-33": Object {
+      "id": "key-33",
+      "val": 1,
+    },
+    "key-34": Object {
+      "id": "key-34",
+      "val": 1,
+    },
+    "key-35": Object {
+      "id": "key-35",
+      "val": 1,
+    },
+    "key-36": Object {
+      "id": "key-36",
+      "val": 1,
+    },
+    "key-37": Object {
+      "id": "key-37",
+      "val": 1,
+    },
+    "key-38": Object {
+      "id": "key-38",
+      "val": 1,
+    },
+    "key-39": Object {
+      "id": "key-39",
+      "val": 1,
+    },
+    "key-4": Object {
+      "id": "key-4",
+      "val": 1,
+    },
+    "key-40": Object {
+      "id": "key-40",
+      "val": 1,
+    },
+    "key-41": Object {
+      "id": "key-41",
+      "val": 1,
+    },
+    "key-42": Object {
+      "id": "key-42",
+      "val": 1,
+    },
+    "key-43": Object {
+      "id": "key-43",
+      "val": 1,
+    },
+    "key-44": Object {
+      "id": "key-44",
+      "val": 1,
+    },
+    "key-45": Object {
+      "id": "key-45",
+      "val": 1,
+    },
+    "key-46": Object {
+      "id": "key-46",
+      "val": 1,
+    },
+    "key-47": Object {
+      "id": "key-47",
+      "val": 1,
+    },
+    "key-48": Object {
+      "id": "key-48",
+      "val": 1,
+    },
+    "key-49": Object {
+      "id": "key-49",
+      "val": 1,
+    },
+    "key-5": Object {
+      "id": "key-5",
+      "val": 1,
+    },
+    "key-50": Object {
+      "id": "key-50",
+      "val": 1,
+    },
+    "key-51": Object {
+      "id": "key-51",
+      "val": 1,
+    },
+    "key-52": Object {
+      "id": "key-52",
+      "val": 1,
+    },
+    "key-53": Object {
+      "id": "key-53",
+      "val": 1,
+    },
+    "key-54": Object {
+      "id": "key-54",
+      "val": 1,
+    },
+    "key-55": Object {
+      "id": "key-55",
+      "val": 1,
+    },
+    "key-56": Object {
+      "id": "key-56",
+      "val": 1,
+    },
+    "key-57": Object {
+      "id": "key-57",
+      "val": 1,
+    },
+    "key-58": Object {
+      "id": "key-58",
+      "val": 1,
+    },
+    "key-59": Object {
+      "id": "key-59",
+      "val": 1,
+    },
+    "key-6": Object {
+      "id": "key-6",
+      "val": 1,
+    },
+    "key-60": Object {
+      "id": "key-60",
+      "val": 1,
+    },
+    "key-61": Object {
+      "id": "key-61",
+      "val": 1,
+    },
+    "key-62": Object {
+      "id": "key-62",
+      "val": 1,
+    },
+    "key-63": Object {
+      "id": "key-63",
+      "val": 1,
+    },
+    "key-64": Object {
+      "id": "key-64",
+      "val": 1,
+    },
+    "key-65": Object {
+      "id": "key-65",
+      "val": 1,
+    },
+    "key-66": Object {
+      "id": "key-66",
+      "val": 1,
+    },
+    "key-67": Object {
+      "id": "key-67",
+      "val": 1,
+    },
+    "key-68": Object {
+      "id": "key-68",
+      "val": 1,
+    },
+    "key-69": Object {
+      "id": "key-69",
+      "val": 1,
+    },
+    "key-7": Object {
+      "id": "key-7",
+      "val": 1,
+    },
+    "key-70": Object {
+      "id": "key-70",
+      "val": 1,
+    },
+    "key-71": Object {
+      "id": "key-71",
+      "val": 1,
+    },
+    "key-72": Object {
+      "id": "key-72",
+      "val": 1,
+    },
+    "key-73": Object {
+      "id": "key-73",
+      "val": 1,
+    },
+    "key-74": Object {
+      "id": "key-74",
+      "val": 1,
+    },
+    "key-75": Object {
+      "id": "key-75",
+      "val": 1,
+    },
+    "key-76": Object {
+      "id": "key-76",
+      "val": 1,
+    },
+    "key-77": Object {
+      "id": "key-77",
+      "val": 1,
+    },
+    "key-78": Object {
+      "id": "key-78",
+      "val": 1,
+    },
+    "key-79": Object {
+      "id": "key-79",
+      "val": 1,
+    },
+    "key-8": Object {
+      "id": "key-8",
+      "val": 1,
+    },
+    "key-80": Object {
+      "id": "key-80",
+      "val": 1,
+    },
+    "key-81": Object {
+      "id": "key-81",
+      "val": 1,
+    },
+    "key-82": Object {
+      "id": "key-82",
+      "val": 1,
+    },
+    "key-83": Object {
+      "id": "key-83",
+      "val": 1,
+    },
+    "key-84": Object {
+      "id": "key-84",
+      "val": 1,
+    },
+    "key-85": Object {
+      "id": "key-85",
+      "val": 1,
+    },
+    "key-86": Object {
+      "id": "key-86",
+      "val": 1,
+    },
+    "key-87": Object {
+      "id": "key-87",
+      "val": 1,
+    },
+    "key-88": Object {
+      "id": "key-88",
+      "val": 1,
+    },
+    "key-89": Object {
+      "id": "key-89",
+      "val": 1,
+    },
+    "key-9": Object {
+      "id": "key-9",
+      "val": 1,
+    },
+    "key-90": Object {
+      "id": "key-90",
+      "val": 1,
+    },
+    "key-91": Object {
+      "id": "key-91",
+      "val": 1,
+    },
+    "key-92": Object {
+      "id": "key-92",
+      "val": 1,
+    },
+    "key-93": Object {
+      "id": "key-93",
+      "val": 1,
+    },
+    "key-94": Object {
+      "id": "key-94",
+      "val": 1,
+    },
+    "key-95": Object {
+      "id": "key-95",
+      "val": 1,
+    },
+    "key-96": Object {
+      "id": "key-96",
+      "val": 1,
+    },
+    "key-97": Object {
+      "id": "key-97",
+      "val": 1,
+    },
+    "key-98": Object {
+      "id": "key-98",
+      "val": 1,
+    },
+    "key-99": Object {
+      "id": "key-99",
+      "val": 1,
+    },
+  },
+}
+`;
