@@ -23,7 +23,7 @@ describe('kesha', () => {
 
   const next = kesha.create(nextStore)
 
-  const delta = kesha.diff(initial.merkle, next)
+  const delta = kesha.diff(next, initial.merkle)
 
   test('diff', () => {
     expect(delta).toMatchSnapshot()

@@ -91,9 +91,12 @@ function create(store) {
   }
 }
 
-function diff(otherMerkle, { cas, merkle }) {
+function diff({ cas, merkle }, otherMerkle) {
   if (otherMerkle.hash === merkle.hash) {
-    return cas
+    return {
+      cas,
+      newMerkle,
+    }
   }
   const otherMerkleHashes = new Set(getMerkleHashes(otherMerkle))
   const newCas = {}
